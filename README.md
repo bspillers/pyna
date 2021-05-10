@@ -3,7 +3,7 @@ Learning to track my code.
 # pyna (Class files)
 
 Setting up Repository for class.
-
+Learning how to version control projects.
 
 ## Built With
 
